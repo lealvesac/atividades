@@ -9,5 +9,28 @@ variável multa o valor da multa que João deverá pagar. Caso contrário
 mostrar tais variáveis com o conteúdo ZERO.*/
 package exercicio;
 
+import java.util.Scanner;
+
 public class Exercicio14 {
+    public static void main(String[] args){
+
+        Scanner scan = new Scanner(System.in);
+        double qtdQuiloPermitido = 50.0;
+        double multa = 0;
+        double excesso = 0;
+
+        System.out.print("Informe a quantidade de QUILOS: ");
+        double peso = scan.nextDouble();
+
+        if(peso > 50){
+            excesso = peso - 50.0;
+            multa = excesso * 4.00;
+            System.out.println("Você exceder o limite de 50kg. Ultrapassou " + excesso + "kg. " +
+                    "A sua multa é de R$" + multa);
+        } else {
+            System.out.println("Tudo certo, você tem " + excesso + " de excesso. E " + multa + " de multa.");
+        }
+
+    }
+
 }

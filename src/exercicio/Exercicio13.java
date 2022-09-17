@@ -24,16 +24,16 @@ public class Exercicio13 {
 
         if (sexo == 1){
             double pesoIdeal = (72.7 * altura) - 58;
-            System.out.println(pesoIdeal);
-            if (pesoIdeal < peso){
+            System.out.println("O peso ideal para o sexo MASCULINO é:  " + pesoIdeal);
+            if (pesoIdeal <= peso){
                 System.out.println("Voce esta acima do peso.");
             } else {
                 System.out.println("Voce esta no peso ideal.");
             }
         } else if (sexo == 2) {
             double pesoIdeal = (62.1 * altura) - 44.7 ;
-            System.out.println(pesoIdeal);
-            if (pesoIdeal < peso){
+            System.out.println("O peso ideal para o sexo FEMINIMO é: " + pesoIdeal);
+            if (pesoIdeal <= peso){
                 System.out.println("Voce esta acima do peso.");
             } else {
                 System.out.println("Voce esta no peso ideal.");
