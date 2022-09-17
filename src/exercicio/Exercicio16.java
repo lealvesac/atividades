@@ -14,11 +14,17 @@ public class Exercicio16 {
             Scanner scan = new Scanner(System.in);
 
             double valorLataTinta = 80.00;
-            double qtdLataTinta = 18.00;
-            double metrosQuadradosLataTinta = qtdLataTinta / 3;
+            double qtdLitrosPorLata = 18.00;
+            double areaPorLitro = 3.0;
 
             System.out.print("Informe a area em metros quadrados a ser pintada: ");
             double areaPintura = scan.nextDouble();
+
+            double qtdTintaComprar = (areaPintura / areaPorLitro) / qtdLitrosPorLata;
+            double valorPagar = qtdTintaComprar * valorLataTinta;
+
+            System.out.println("Voce deve comprar " + qtdTintaComprar + " lata(s) de tinta");
+            System.out.println("Vai dar o total de R$" + valorPagar);
 
         }
 
