@@ -1,5 +1,5 @@
 //Faça um Programa que peça dois números e imprima o maior deles.
-package exercio02;
+package exercicio02;
 
 import java.util.Scanner;
 
