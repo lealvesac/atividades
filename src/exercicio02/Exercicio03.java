@@ -10,11 +10,11 @@ public class Exercicio03 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Digite uma letra: ");
-        char sexo = input.next().charAt(0);
+        String sexo = input.next();
 
-        if (sexo == 'F' || sexo =='f'){
+        if (sexo.equalsIgnoreCase("f")){
             System.out.println("A letra informada " + sexo + " - Feminino.");
-        } else if (sexo == 'M' || sexo == 'm') {
+        } else if (sexo.equalsIgnoreCase("m")) {
             System.out.println("A letra informada " + sexo + " - Masculino.");
         } else {
             System.out.println("Sexo Inválido.");
