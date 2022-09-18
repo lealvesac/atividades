@@ -18,9 +18,9 @@ public class Exercicio06 {
         System.out.print("Numero: 3: ");
         double n3 = input.nextDouble();
 
-        if (n1 > n2 && n1 > n3){
+        if (n1 >= n2 && n1 >= n3){
            maior = n1;
-        } else if (n2 > n1 && n2 > n3) {
+        } else if (n2 >= n1 && n2 >= n3) {
             maior = n2;
         } else {
             maior = n3;

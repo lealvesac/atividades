@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="resolução exercicio05 parte02">
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio06.java" afterDir="false" />
+    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção exercicio04">
+      <change afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio02/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio04.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio05.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio06.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio07.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,35 +54,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio06">
-    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio01" />
-      <module name="atividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio02" />
-      <module name="atividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio07">
     <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio03" />
+      <module name="atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio04" />
       <module name="atividades" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio07" />
+      <module name="atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio07" />
+        <item itemvalue="Application.Exercicio04" />
+        <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
-        <item itemvalue="Application.Exercicio03" />
-        <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.exercio02.Exercicio01" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663516778152</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="resolução exercicio06 parte02">
+      <created>1663517671208</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663517671208</updated>
+    </task>
+    <task id="LOCAL-00012" summary="melhorando o codigo em aula de correção.">
+      <created>1663525444967</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663525444967</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correção exercicio04">
+      <created>1663526824802</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663526824802</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +254,9 @@
     <MESSAGE value="resolução exercicio02 parte02" />
     <MESSAGE value="resolução exercicio03 parte02" />
     <MESSAGE value="resolução exercicio05 parte02" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução exercicio05 parte02" />
+    <MESSAGE value="resolução exercicio06 parte02" />
+    <MESSAGE value="melhorando o codigo em aula de correção." />
+    <MESSAGE value="correção exercicio04" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção exercicio04" />
   </component>
 </project>
