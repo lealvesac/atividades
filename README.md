@@ -1,6 +1,6 @@
 # Atividades
 Lista de exercicios propostos por Loiane Groner, no curso de Java basico.
-Link do curso: http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/
+Link do curso: https://loiane.training/continuar-curso/java-basico
 
 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
