@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="Adição de desafios para resolver do 18 ao 28.">
+    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="resolução Exercicio20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio02/Exercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio02/Exercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio17.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio18.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio20.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio21.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,20 +66,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio20">
-    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio09" />
-      <module name="atividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio19">
     <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio12" />
       <module name="atividades" />
@@ -118,6 +106,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio19" />
+      <module name="atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio20" />
       <module name="atividades" />
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio19" />
         <item itemvalue="Application.Exercicio20" />
         <item itemvalue="Application.Exercicio16" />
         <item itemvalue="Application.Exercicio17" />
         <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio09" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663886796796</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="resolução Exercicio20">
+      <created>1663932706760</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663932706761</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,6 +372,7 @@
     <MESSAGE value="resolução Exercicio16" />
     <MESSAGE value="resolução Exercicio17" />
     <MESSAGE value="Adição de desafios para resolver do 18 ao 28." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição de desafios para resolver do 18 ao 28." />
+    <MESSAGE value="resolução Exercicio20" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução Exercicio20" />
   </component>
 </project>
