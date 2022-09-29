@@ -27,7 +27,7 @@ public class Exercicio19 {
             unidade = numInformado % 10;
             System.out.println(centena + " , " +  dezena + ", " +  unidade);
         } else {
-            System.out.println("Valos Informado INVALIDO!!!");
+            System.out.println("Valor Informado INVALIDO!!!");
         }
 
 
