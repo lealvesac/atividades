@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção de output">
-      <change afterPath="$PROJECT_DIR$/src/exercicios16e17/exercicio01.java" afterDir="false" />
+    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção de exercicio01">
+      <change afterPath="$PROJECT_DIR$/src/exercicios16e17/exercicio02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,8 @@
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio26.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio27.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/exercicio02/Exercicio28.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exercicios16e17/exercicio01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exercicios16e17/exercicio02.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,20 +75,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio01">
-    <configuration name="Exercicio25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio25" />
-      <module name="atividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercicio02">
     <configuration name="Exercicio26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio26" />
       <module name="atividades" />
@@ -139,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios16e17.exercicio02" />
+      <module name="atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios16e17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio02" />
         <item itemvalue="Application.exercicio01" />
         <item itemvalue="Application.Exercicio28" />
         <item itemvalue="Application.Exercicio27" />
         <item itemvalue="Application.Exercicio26" />
-        <item itemvalue="Application.Exercicio25" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +164,7 @@
       <workItem from="1664882187221" duration="71000" />
       <workItem from="1665074287956" duration="853000" />
       <workItem from="1665078058364" duration="1298000" />
-      <workItem from="1665506143472" duration="1578000" />
+      <workItem from="1665506143472" duration="5084000" />
     </task>
     <task id="LOCAL-00001" summary="resolução atividade 13">
       <created>1663361919455</created>
@@ -395,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664454829195</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="correção de exercicio01">
+      <created>1665511981432</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1665511981432</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução exercicio03 parte02" />
     <MESSAGE value="resolução exercicio05 parte02" />
     <MESSAGE value="resolução exercicio06 parte02" />
     <MESSAGE value="melhorando o codigo em aula de correção." />
@@ -438,7 +446,8 @@
     <MESSAGE value="resolução Exercicio26" />
     <MESSAGE value="resolução Exercicio27" />
     <MESSAGE value="correção de output" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção de output" />
+    <MESSAGE value="correção de exercicio01" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção de exercicio01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
