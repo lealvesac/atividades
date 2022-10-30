@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção camelCase de class">
+    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção ajuste de atividade">
+      <change afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicios16e17/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio03">
+  <component name="RunManager" selected="Application.Exercicio05">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios16e17.Exercicio01" />
       <module name="atividades" />
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio28" />
+    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios16e17.Exercicio05" />
       <module name="atividades" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
+          <option name="PATTERN" value="exercicios16e17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio04" />
         <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
-        <item itemvalue="Application.Exercicio28" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1666703672802" duration="614000" />
       <workItem from="1666798666067" duration="3878000" />
       <workItem from="1666870131590" duration="3579000" />
-      <workItem from="1667136800622" duration="300000" />
+      <workItem from="1667136800622" duration="5276000" />
     </task>
     <task id="LOCAL-00001" summary="resolução atividade 13">
       <created>1663361919455</created>
@@ -442,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666890336742</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="correção ajuste de atividade">
+      <created>1667137442140</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667137442140</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução e correção ativade 07" />
     <MESSAGE value="resolução Exercicio08" />
     <MESSAGE value="resolução Exercicio10" />
     <MESSAGE value="resolução Exercicio11" />
@@ -485,7 +491,8 @@
     <MESSAGE value="resolução exercicio03" />
     <MESSAGE value="resolução exercicio04" />
     <MESSAGE value="correção camelCase de class" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção camelCase de class" />
+    <MESSAGE value="correção ajuste de atividade" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção ajuste de atividade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
