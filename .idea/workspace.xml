@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção de exercicio02">
-      <change afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio04.java" afterDir="false" />
+    <list default="true" id="10cadd9f-c27d-4257-86a5-f6361716bab4" name="Changes" comment="correção camelCase de class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicios16e17/exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicios16e17/exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios16e17/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios16e17/Exercicio03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +173,8 @@
       <workItem from="1665798495674" duration="99000" />
       <workItem from="1666703672802" duration="614000" />
       <workItem from="1666798666067" duration="3878000" />
-      <workItem from="1666870131590" duration="2689000" />
+      <workItem from="1666870131590" duration="3579000" />
+      <workItem from="1667136800622" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="resolução atividade 13">
       <created>1663361919455</created>
@@ -423,7 +421,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665515756332</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="resolução exercicio03">
+      <created>1666890275729</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1666890275729</updated>
+    </task>
+    <task id="LOCAL-00037" summary="resolução exercicio04">
+      <created>1666890298898</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1666890298898</updated>
+    </task>
+    <task id="LOCAL-00038" summary="correção camelCase de class">
+      <created>1666890336742</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1666890336742</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,9 +460,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução exercicio06 parte02" />
-    <MESSAGE value="melhorando o codigo em aula de correção." />
-    <MESSAGE value="correção exercicio04" />
     <MESSAGE value="resolução e correção ativade 07" />
     <MESSAGE value="resolução Exercicio08" />
     <MESSAGE value="resolução Exercicio10" />
@@ -466,7 +482,10 @@
     <MESSAGE value="correção de output" />
     <MESSAGE value="correção de exercicio01" />
     <MESSAGE value="correção de exercicio02" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção de exercicio02" />
+    <MESSAGE value="resolução exercicio03" />
+    <MESSAGE value="resolução exercicio04" />
+    <MESSAGE value="correção camelCase de class" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção camelCase de class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

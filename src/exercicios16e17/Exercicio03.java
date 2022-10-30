@@ -42,6 +42,8 @@ public class Exercicio03 {
             }
         } while (!validacao);
 
+        validacao = false;
+
         do {
             System.out.print("Informe o seu salario: ");
             salario = input.nextDouble();
